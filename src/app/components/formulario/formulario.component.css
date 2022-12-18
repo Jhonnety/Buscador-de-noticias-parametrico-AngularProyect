@@ -1,0 +1,9 @@
+.heading{
+    font-weight: 900;
+    font-size: 2rem;
+    text-transform: uppercase;
+    text-align: center;
+}
+.jumbotron{
+    background-color: rgba(172, 172, 172, 0.326);
+}
